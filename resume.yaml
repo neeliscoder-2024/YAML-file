@@ -24,37 +24,33 @@ education:
     score: "CGPA 8.8"
 
 profile_summary:
-  - Trained in cloud computing and full-stack web development
-  - Hands-on experience with Microsoft Azure, GitHub, and CI/CD pipelines
-  - Proficient in HTML, CSS, SQL, Python, and Django framework
-  - Built a Netflix-inspired web application with search, watchlists, and user support
-  - Focused on responsive design and performance optimization
+  - Trained full-stack web development.
+  - Trained in HTML, CSS, SQL, Python, and Django framework.
+  - Built a Netflix-inspired web application with search, watchlists, and user support.
+  - Focused on responsive design and performance optimization.
 
 skills:
-  - Python
-  - HTML
-  - CSS
-  - Django
-  - Git
-  - Linux
-  - Microsoft Azure
-  - Full Stack Web Development
+  - Python.
+  - Django.
+  - Git.
+  - Linux.
+  - Full Stack Web Development.
 
 training:
-  - course: Python Full Stack Web Development
+  - course: Python Full Stack Web Development.
     duration: "2023 – 2024"
     areas:
-      - Frontend development
-      - Backend development
-      - Responsive design
-      - Authentication and navigation
-      - Web performance optimization
+      - Frontend development.
+      - Backend development.
+      - Responsive design.
+      - Authentication and navigation.
+      - Web performance optimization.
 
 projects:
-  - name: Netflix-Inspired Web App
+  - name: Netflix-Inspired Web App.
     features:
-      - Advanced search
-      - Watchlist tracking
-      - User support
-      - Responsive design
-      - Authentication
+      - Advanced search.
+      - Watchlist tracking.
+      - User support.
+      - Responsive design.
+      - Authentication.
