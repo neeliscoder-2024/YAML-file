@@ -1,0 +1,62 @@
+
+name: Aditya Sahu
+location: Whitefield, Bangalore
+contact:
+  phone: "6372947003"
+  email: "sahuaditya715@gmail.com"
+
+objective: >
+  Seeking a position to utilize my skills and abilities in organizations 
+  that offer professional growth while being resourceful, innovative, 
+  flexible, and contributing quality ideas.
+
+education:
+  - institute: GIET University
+    degree: B-Tech
+    score: "83.5%"
+  - institute: Aum Valley School
+    board: CBSE
+    years: "2017 – 2019"
+    score: "54.5%"
+  - institute: Sri Prakash Vidyaniketan Kapuluppada
+    board: CBSE
+    year: "2017"
+    score: "CGPA 8.8"
+
+profile_summary:
+  - Trained in cloud computing and full-stack web development
+  - Hands-on experience with Microsoft Azure, GitHub, and CI/CD pipelines
+  - Proficient in HTML, CSS, SQL, Python, and Django framework
+  - Built a Netflix-inspired web application with search, watchlists, and user support
+  - Focused on responsive design and performance optimization
+
+skills:
+  - Python
+  - HTML
+  - CSS
+  - Django
+  - Git
+  - Linux
+  - Microsoft Azure
+  - Full Stack Web Development
+
+training:
+  - course: Python Full Stack Web Development
+    duration: "2023 – 2024"
+    areas:
+      - Frontend development
+      - Backend development
+      - Responsive design
+      - Authentication and navigation
+      - Web performance optimization
+
+projects:
+  - name: Netflix-Inspired Web App
+    features:
+      - Advanced search
+      - Watchlist tracking
+      - User support
+      - Responsive design
+      - Authentication
+
+note: Personal - Individual Use
